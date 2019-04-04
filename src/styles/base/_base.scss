@@ -1,0 +1,29 @@
+body {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 1.6rem;
+  background: white;
+}
+h2 {
+  font-size: 2.2rem;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+button {
+  cursor: pointer;
+}
+
+button:disabled {
+  cursor: default;
+}
+
+h3 {
+  margin: 0;
+}
+
+.is-active {
+  font-weight: bold;
+}
